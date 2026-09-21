@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "release_date": "2026-09-21",
-  "download_url": "",
-  "release_notes": "Initial Release",
+  "download_url": "https://github.com/amituppalsml/All-In-One-Business-Software-Updates/releases/download/v1.1.0/All-In-One-Business-Software-v1.1.0.xlsm",
+  "release_notes": "Software update system added; Online update checking; Professional update notification; Update download support; Improved software maintenance and update architecture",
   "mandatory": false
 }
